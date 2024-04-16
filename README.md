@@ -16,4 +16,10 @@ Páginas de navegação
 - Pagina Home com opções de frutas para incluir na cesta.
 - Página de Erros (404 - não encontrada)
 
+## Estrutura das pastas
+- public/imgs - as imagens
+- src/components - os componentes
+- src/hooks - Hooks do React, principalmente useContext
+- src/pages - As páginas do site
+- src/routes - Rotas do site
 
